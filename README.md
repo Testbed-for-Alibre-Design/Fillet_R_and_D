@@ -27,3 +27,6 @@ https://docs.techsoft3d.com/exchange/latest/api/group__a3d__feature__description
 https://help.solidworks.com/2014/english/api/sldworksapi/solidworks.interop.sldworks~solidworks.interop.sldworks.ifeaturemanager~featurefillet2.html
 
 https://help.solidworks.com/2014/english/api/swconst/SolidWorks.Interop.swconst~SolidWorks.Interop.swconst.swFeatureFilletType_e.html
+
+
+**It is well understood that Alibre Design does not have full-round fillet capabilities. My goal was to review another 3D-CAD API, compare its methods, and explore the possibility of creating a full-round fillet by using the existing Alibre APIs.**
